@@ -1,3 +1,3 @@
 # Grafo
-Algoritmo de grafos, Dijkstra modificado, trabalho disciplina de Grafos da Universidade Pontifica Catolica- Minas Gerais.
+Algoritmo de grafos, Dijkstra modificado, trabalho disciplina de Grafos da Pontúfica Universidade Católica- Minas Gerais.
 
